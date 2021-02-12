@@ -1,0 +1,5 @@
+raw_data: "./example.csv"
+
+mma_window: 10 # time points
+
+airPLS_lambda: 10000
